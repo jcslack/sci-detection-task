@@ -50,7 +50,7 @@ const int nT = sizeof(trialType)/sizeof(trialType[0]);
 int entryT = 0; //trialType index
 int setTrial; //variable for chosen trial from trialType[entryT]
 
- 
+// comment
 
 //------------------------------MAIN------------------------------
 void setup() {
